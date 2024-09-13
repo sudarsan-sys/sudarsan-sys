@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frameworks of java script
 - 💞️ I’m looking to collaborate on technical clubs in VIT Chennai
-- 📫 How to reach me email : sudarsan.2024@vitstudent.acin
+- 📫 How to reach me email : sudarsan.2024@vitstudent.ac.in
 - 😄 Pronouns: Often Falling Always Learning
 - ⚡ Fun fact: ❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams ❞
 
