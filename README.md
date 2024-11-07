@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making calculator using JS and bootstrap Framework from CSS<br><br>🌱 I’m currently learning frameworks of Java Script<br><br>👯 I’m looking to collaborate on technical clubs in VIT Chennai<br><br>💬 Ask me about Web development and Python<br><br>📫 How to reach me sudarsan.2024@vitstudent.ac.in<br><br>⚡ Fun fact ❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”
+🔭 I’m currently working on making calculator using JS and bootstrap Framework from CSS<br><br>🌱 I’m currently learning frameworks of Java Script<br><br>👯 I’m looking to collaborate on technical clubs in VIT Chennai<br><br>💬 Ask me about Web development and Python<br><br>📫 How to reach me sudarsan.2024@vitstudent.ac.in<br><br>⚡ Fun fact “Git commit messages be like: ‘final final FINAL version’” 😂
 
 
 ## 🌐 Socials:
